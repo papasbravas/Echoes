@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\Platform\Horizontal.cs" />
     <Compile Include="Assets\Scripts\Player\EnemyCollider.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Menu\MusicManager.cs" />
     <Compile Include="Assets\Scripts\Objects\ObtainOrbs.cs" />
     <Compile Include="Assets\Scripts\Enemies\Slime\SlimeMovement.cs" />
     <Compile Include="Assets\Scripts\Parallax\ParallaxLayer.cs" />
@@ -97,6 +98,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
+    <None Include="Assets\Fantasy Harp Album - 010118\Notes.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />

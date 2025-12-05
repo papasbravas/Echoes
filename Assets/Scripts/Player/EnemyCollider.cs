@@ -11,6 +11,8 @@ public class EnemyCollider : MonoBehaviour
     private PlayerMovement playerMove;
     private PlayerAnimations playerAnimation;
 
+    [SerializeField] private AudioSource sonidoDaño;
+
     private bool inmune = false;
 
     private VidasPlayer vidasPlayer;
@@ -27,11 +29,13 @@ public class EnemyCollider : MonoBehaviour
     {
         if (other.collider.CompareTag("Enemy") && !inmune)
         {
+            sonidoDaño.Play();
             StartCoroutine(RecibirDaño());
         }
 
         if (other.collider.CompareTag("dead"))
         {
+            sonidoMuerte.Play();
             StartCoroutine(MorirPorCaida());
         }
     }

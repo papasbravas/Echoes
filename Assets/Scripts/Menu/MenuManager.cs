@@ -11,6 +11,9 @@ public class MenuManager : MonoBehaviour
 
     [Header("Música")]
     [SerializeField] private AudioSource musicaFondo;
+    //[SerializeField] private AudioSource musicaNivel1;
+    //[SerializeField] private AudioSource musicaNivel2;
+    //[SerializeField] private AudioSource musicaNivel3;
     [SerializeField] private float duracionFade = 2f;
 
     [Header("Opciones de Sonido")]
@@ -121,6 +124,7 @@ public class MenuManager : MonoBehaviour
     public void CargarNivel1()
     {
         StartCoroutine(FadeOutYLoad());
+        //musicaNivel1.Play();
         PlayerPrefs.SetInt("nivelJugador", 1);
         PlayerPrefs.Save();
         SceneManager.LoadScene(0);
@@ -129,6 +133,7 @@ public class MenuManager : MonoBehaviour
     public void CargarNivel2()
     {
         StartCoroutine(FadeOutYLoad());
+        //musicaNivel2.Play();
         PlayerPrefs.SetInt("nivelJugador", 2);
         PlayerPrefs.Save();
         SceneManager.LoadScene(3);
@@ -139,6 +144,7 @@ public class MenuManager : MonoBehaviour
     public void CargarNivel3()
     {
         StartCoroutine(FadeOutYLoad());
+        //musicaNivel3.Play();
         PlayerPrefs.SetInt("nivelJugador", 3);
         PlayerPrefs.Save();
         SceneManager.LoadScene(4);

@@ -4,6 +4,7 @@ public class DetectStomp : MonoBehaviour
 {
     [SerializeField] private float fuerzaRebote = 2f;
     private EnemiesAnimation enemy;
+    [SerializeField] private AudioSource sonidoStomp;
 
     void Start()
     {
@@ -17,6 +18,7 @@ public class DetectStomp : MonoBehaviour
         // Matar enemigo
         if (enemy != null)
         {
+            sonidoStomp.Play();
             enemy.AnimacionMuerte();
         }
             
