@@ -7,23 +7,27 @@
       "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|d:\\videojuegosespecializacion\\echoesoftheforest\\echoes\\assets\\scripts\\enemies\\detectstomp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|d:\\videojuegosespecializacion\\echoesoftheforest\\echoes\\assets\\scripts\\menu\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\assets\\scripts\\enemies\\detectstomp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\detectstomp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|d:\\videojuegosespecializacion\\echoesoftheforest\\echoes\\assets\\scripts\\objects\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\assets\\scripts\\objects\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|d:\\videojuegosespecializacion\\echoesoftheforest\\echoes\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|d:\\videojuegosespecializacion\\echoesoftheforest\\echoes\\assets\\scripts\\player\\enemycollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\assets\\scripts\\player\\enemycollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\enemycollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|d:\\videojuegosespecializacion\\echoesoftheforest\\echoes\\assets\\scripts\\player\\playeranimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\assets\\scripts\\player\\playeranimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Menu\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MusicManager.cs",
+              "ToolTip": "D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Menu\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\MusicManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:59:04.179Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,14 +61,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MenuManager.cs",
               "ToolTip": "D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Menu\\MenuManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Menu\\MenuManager.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAcwA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T08:51:50.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DetectStomp.cs",
               "DocumentMoniker": "D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Enemies\\DetectStomp.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\DetectStomp.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\DetectStomp.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:40:07.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:40:07.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bullet.cs",
               "DocumentMoniker": "D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Objects\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\Bullet.cs",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Objects\\Bullet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:28:53.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:28:53.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EnemyCollider.cs",
               "DocumentMoniker": "D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Player\\EnemyCollider.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\EnemyCollider.cs",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\EnemyCollider.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:12:56.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:12:56.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayerAnimations.cs",
               "DocumentMoniker": "D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Player\\PlayerAnimations.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimations.cs",
@@ -98,12 +112,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:05:58.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:05:58.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
@@ -111,8 +124,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ViewState": "AgIAALYAAAAAAAAAAAAQwOgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:05:47.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:05:47.275Z"
             }
           ]
         }

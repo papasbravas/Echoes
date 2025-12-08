@@ -12,7 +12,7 @@ public class EnemiesAnimation : MonoBehaviour
     [Header("Vida y Muerte")]
     [SerializeField] private int vida = 2;
     [SerializeField] private float tiempoDestruccion = 1f;
-    //[SerializeField] private AudioSource sonidoMuerte;
+    [SerializeField] private AudioSource sonidoMuerte;
 
     private bool muriendo = false;
     private LevelEnemyManager levelManager;
@@ -55,8 +55,10 @@ public class EnemiesAnimation : MonoBehaviour
         animator.SetTrigger("Muerte");
 
         // Reproducir sonido de muerte
-        //if (sonidoMuerte != null)
-        //    sonidoMuerte.Play();
+        if (sonidoMuerte != null)
+        {
+            sonidoMuerte.Play();
+        }
 
         // Esperar a que la animación termine
         yield return new WaitForSeconds(tiempoDestruccion);
