@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class ObtainOrbs : MonoBehaviour
 {
     [Header("Audio")]
-    public AudioSource audioSource;
+    public AudioSource obtenOrbe;
 
     public HiddenPath path;
     public bool activaElCamino = false;
@@ -33,6 +33,12 @@ public class ObtainOrbs : MonoBehaviour
     {
         if (other.CompareTag("Player")) // Verifica si el objeto que colisiona es el jugador
         {
+            // Recuperar vida si el jugador tiene el componente de vidas
+            VidasPlayer vidas = other.GetComponent<VidasPlayer>();
+            if (vidas != null)
+            {
+                vidas.EarnLife(1); // Recuperar una vida
+            }
             ContadorOrbs contador = other.GetComponent<ContadorOrbs>(); // Obtener el componente ContadorOrbs del jugador
             if (contador != null)
             {
@@ -57,11 +63,21 @@ public class ObtainOrbs : MonoBehaviour
                 }
             }
 
-            if (audioSource != null) // Reproduce el sonido de recogida si está asignado
+            if (obtenOrbe != null)
             {
-                audioSource.Play();
-                Destroy(gameObject, audioSource.clip.length); // Destruye el objeto después de que termine el sonido
+                GameObject tempGO = new GameObject("TempAudio"); // Crea un objeto temporal para reproducir el sonido
+                AudioSource a = tempGO.AddComponent<AudioSource>(); // Añade un componente AudioSource al objeto temporal
+
+                a.clip = obtenOrbe.clip; // Asigna el clip de sonido
+                a.volume = obtenOrbe.volume; // Asigna el volumen
+                a.spatialBlend = 0f; // Sonido 2D
+                a.Play();
+
+                Destroy(tempGO, a.clip.length); // Destruye el objeto temporal después de que el sonido haya terminado
+
+                Destroy(gameObject); // Destruye el orbe inmediatamente
             }
+
             else
             {
                 // Si no hay sonido, destruye el objeto inmediatamente

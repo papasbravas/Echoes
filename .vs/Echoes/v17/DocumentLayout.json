@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "E:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|e:\\videojuegosespecializacion\\echoesoftheforest\\echoes\\assets\\scripts\\objects\\obtainorbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\obtainorbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|e:\\videojuegosespecializacion\\echoesoftheforest\\echoes\\assets\\scripts\\player\\vidasplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\vidasplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|e:\\videojuegosespecializacion\\echoesoftheforest\\echoes\\assets\\scripts\\enemies\\enemiesanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|E:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\assets\\scripts\\enemies\\enemiesanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemiesanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|e:\\videojuegosespecializacion\\echoesoftheforest\\echoes\\assets\\scripts\\enemies\\slime\\slimemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|E:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\assets\\scripts\\enemies\\slime\\slimemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCBFBAD-12E5-49A9-87AA-ED6D22A10698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\slime\\slimemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ObtainOrbs.cs",
+              "DocumentMoniker": "E:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Objects\\ObtainOrbs.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\ObtainOrbs.cs",
+              "ToolTip": "E:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Objects\\ObtainOrbs.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\ObtainOrbs.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:38:43.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "VidasPlayer.cs",
               "DocumentMoniker": "E:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Player\\VidasPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\VidasPlayer.cs",
               "ToolTip": "E:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Player\\VidasPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\VidasPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T18:48:02.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SlimeMovement.cs",
               "DocumentMoniker": "E:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Enemies\\Slime\\SlimeMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Slime\\SlimeMovement.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\Slime\\SlimeMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T18:12:57.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T18:12:57.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EnemiesAnimation.cs",
               "DocumentMoniker": "E:\\VideojuegosEspecializacion\\EchoesOfTheForest\\Echoes\\Assets\\Scripts\\Enemies\\EnemiesAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemiesAnimation.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemiesAnimation.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwDwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T18:04:32.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T18:04:32.228Z"
             }
           ]
         }
